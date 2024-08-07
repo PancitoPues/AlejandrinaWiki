@@ -1,10 +1,10 @@
 # Table of contents
 
-* [🎀 Bienvenido a mi Wiki 🎀](README.md)
+* [🎀 Bienvenido a mi Wiki.](README.md)
 
 ## INTRODUCCIÓN <a href="#introducin" id="introducin"></a>
 
-* [💡 ¿Quién soy?](introducin/i-am.md)
+* [💡 Empezar](introducin/get-started.md)
 * [➕ Invitame](introducin/invite.md)
 * [✨ Servidor de soporte](introducin/support.md)
 * [🌟 Prime y Premium](introducin/prime.md)
@@ -57,5 +57,6 @@
 
 ##   <a href="#legal" id="legal"></a>
 
+* [Preguntas frecuentes](legal/questions.md)
 * [Términos y Condiciones](legal/terms-and-conditions.md)
 * [Políticas de Privacidad](legal/privacy-policies.md)
