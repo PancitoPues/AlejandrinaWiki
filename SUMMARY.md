@@ -37,7 +37,7 @@
 * [🤨 ¿Qué son?](anidrones/what-are-they.md)
 * [🍔 Alimentación](anidrones/feeding.md)
 * [🌄 Biomas](anidrones/biomes.md)
-* [🗡️ Sistema de peleas](anidrones/fight-system.md)
+* [🗡️ Peleas](anidrones/fight-system.md)
 * [🔯 Runas ](anidrones/runes.md)
 * [🌀 Shards de Poder](anidrones/shards-of-power.md)
 
