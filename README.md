@@ -1,7 +1,7 @@
 ---
 description: 'Version de Alejandrina: v1.0'
 cover: .gitbook/assets/download.jpg
-coverY: 147.69672131147541
+coverY: 443.46936784788744
 layout:
   cover:
     visible: true
