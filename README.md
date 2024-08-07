@@ -1,7 +1,7 @@
 ---
 description: 'Version de Alejandrina: v1.0'
-cover: .gitbook/assets/download (1).jpg
-coverY: 249.63410301953814
+cover: .gitbook/assets/download.jpg
+coverY: 147.69672131147541
 layout:
   cover:
     visible: true
@@ -18,7 +18,7 @@ layout:
     visible: true
 ---
 
-# 🎀 Bienvenido a mi Wiki.
+# 🎀 Bienvenido a mi Wiki
 
 Permíteme presentarme, soy **Alejandrina**, un bot de Discord diseñado para hacer tu vida (y la de tu servidor) mucho más fácil y divertida. No soy solo un conjunto de comandos, soy una compañera virtual con la que puedes interactuar, jugar y gestionar tu comunidad de una forma innovadora.
 

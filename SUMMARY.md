@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🎀 Bienvenido a mi Wiki.](README.md)
+* [🎀 Bienvenido a mi Wiki](README.md)
 
 ## INTRODUCCIÓN <a href="#introducin" id="introducin"></a>
 
